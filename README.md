@@ -4,4 +4,4 @@
 I made a small project with React that uses data fetched from the Unsplash API to find the image you are looking for
 
 # Vercel Links
-https://api-call-with-react-368ceuz7w-bltmustafa.vercel.app/ 
+https://api-call-with-react.vercel.app/
